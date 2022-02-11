@@ -63,6 +63,7 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 
 ## Language Projects
 
+-   [Firestore Query Parser](https://github.com/instadeq/firestore-query-parser-js)
 -   [HTML Is A Programming Language](https://github.com/marianoguerra/hiapl)
 -   [Efene Programming Language](https://github.com/efene/efene)
 -   [Elixir Flavoured Erlang](https://github.com/marianoguerra/efe): an Erlang to Elixir Transpiler
