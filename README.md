@@ -12,14 +12,17 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 
 ## Main Projects
 
+(most recent first)
+
 -   [Youtube Notes](https://instadeq.com/youtube-notes/)
--   [Review Jam](http://marianoguerra.github.io/review-jam/) / [Advent of Future of Code](http://marianoguerra.github.io/advent-of-future-of-code/)
+-   [Review Jam](https://marianoguerra.github.io/review-jam/) / [Advent of Future of Code](https://marianoguerra.github.io/advent-of-future-of-code/)
 -   [Creemos en la Red](https://creemosenlared.com/)
 -   [BEAMoji](https://github.com/spawnfest/beamoji/blob/%E2%93%82%EF%B8%8F/JUDGES.md)
 -   [Elixir Flavoured Lisp Flavoured Erlang](https://github.com/marianoguerra/efe#eflfe-elixir-flavoured-lisp-flavoured-erlang)
 -   [Elixir Flavoured Erlang](https://github.com/marianoguerra/efe)
 -   [Efene Programming Language](https://github.com/efene/efene)
 -   [Creemos en la Web](https://creemosenlaweb.github.io/)
+-   [Riak Core Lite (Contributor)](https://riak-core-lite.github.io/)
 -   [Riak Core on Partisan on Elixir Tutorial](http://marianoguerra.org/posts/riak-core-on-partisan-on-elixir-tutorial-introduction.html)
 -   [Riak Core Tutorial](https://marianoguerra.github.io/riak-core-tutorial/)
 -   [Little Riak Core Book](https://marianoguerra.github.io/little-riak-core-book/)
@@ -29,21 +32,31 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 -   [rst2html5](https://github.com/marianoguerra/rst2html5)
 -   [All Projects](https://github.com/marianoguerra?tab=repositories)
 
+## Me Around the Web
+
+-   [gh/marianoguerra](https://github.com/marianoguerra)
+-   [@marianoguerra@vis.social](https://vis.social/@marianoguerra)
+-   [@warianoguerra](https://twitter.com/warianoguerra)
+-   [marianoguerra.org](http://marianoguerra.org)
+
 ## Talks
 
--   [LIVE 2021: A Live Programming Environment for End User Data Analysis and Visualization](https://www.youtube.com/watch?v=mTEkYqnGICE) ([Slides](https://marianoguerra.github.io/presentations/2021-live/))
--   The Platform of the System - Code BEAM Brasil 2021 ([Slides](http://marianoguerra.github.io/presentations/2021-codebeam-brasil/The%20Platform%20of%20The%20System%20-%20Code%20BEAM%20Brasil%202021.pdf))
--   Elixir Flavoured Erlang - Erlang User Group Meetup ([Slides](http://marianoguerra.github.io/presentations/2020-erlug-elixir-flavoured-erlang/))
--   [BEAM Language Ecosystem: Past, Present and Future - Code BEAM Brasil 2020](https://www.codebeambr.com/video/10) ([Slides](http://marianoguerra.github.io/presentations/2020-codebeam-brazil/BEAM%20Language%20Ecosystem%20Past,%20Present%20and%20Future.pdf))
+(most recent first)
+
+-   [Seeing Like a Linguist - Code BEAM Coruña 2022](https://www.codebeamcorunha.es/en#schedule) ([Slides](http://marianoguerra.github.io/presentations/2022-codebeam-galicia/))
+-   [Instadeq: A Live Programming Environment for End User Data Analysis and Visualization - Live 2021](https://www.youtube.com/watch?v=mTEkYqnGICE) ([Slides](https://marianoguerra.github.io/presentations/2021-live/))
+-   The Platform of the System - Code BEAM Brasil 2021 ([Slides](https://marianoguerra.github.io/presentations/2021-codebeam-brasil/The Platform of The System - Code BEAM Brasil 2021.pdf))
+-   Elixir Flavoured Erlang - Erlang User Group Meetup ([Slides](https://marianoguerra.github.io/presentations/2020-erlug-elixir-flavoured-erlang/))
+-   [BEAM Language Ecosystem: Past, Present and Future - Code BEAM Brasil 2020](https://www.codebeambr.com/video/10) ([Slides](https://marianoguerra.github.io/presentations/2020-codebeam-brazil/BEAM Language Ecosystem Past, Present and Future.pdf))
 -   [Programming by any other name - Bob 2020 - Berlin](https://www.youtube.com/watch?v=dZC__eDU60M&list=PLHvf3gk-RdgWClskb81nBwwCCv7sRZqDm&index=16&t=0s) ([Slides](https://marianoguerra.github.io/presentations/2020-berlin-bobkonf-programming-by-any-other-name/#1))
--   [Un Paseo por el Laberinto de las Representaciones - ElixirConfLA Medellin 2019](https://www.youtube.com/watch?v=PrSdwC8H84E) ([Slides](http://marianoguerra.github.io/presentations/2019-medellin-elixir-conf-la-laberinto-representaciones/#1))
--   [Slides: A Tour Through the Distributed System Zoo - Code BEAM Milan 2018](http://marianoguerra.github.io/presentations/2018-codebeam-milan-zoo/#1)
+-   [Un Paseo por el Laberinto de las Representaciones - ElixirConfLA Medellin 2019](https://www.youtube.com/watch?v=PrSdwC8H84E) ([Slides](https://marianoguerra.github.io/presentations/2019-medellin-elixir-conf-la-laberinto-representaciones/#1))
+-   [Slides: A Tour Through the Distributed System Zoo - Code BEAM Milan 2018](https://marianoguerra.github.io/presentations/2018-codebeam-milan-zoo/#1)
 -   [Video: Implementing Languages on the BEAM - Code BEAM SF 2018](https://www.youtube.com/watch?v=lkAbwmn5Rv8)
--   [Video: A Tour Through the Distributed System Zoo - Code BEAM SF 2018](https://www.youtube.com/watch?v=L7OTjuCIZc0) ([Slides](http://marianoguerra.github.io/presentations/2018-codebeam-sf-zoo/))
--   [Video: Building distributed applications: riak_core vs partisan | London Riak Meetup](https://www.youtube.com/watch?v=BKqR3EJAV78) ([Slides](http://marianoguerra.github.io/presentations/2018-london-erlang-meetup/))
+-   [Video: A Tour Through the Distributed System Zoo - Code BEAM SF 2018](https://www.youtube.com/watch?v=L7OTjuCIZc0) ([Slides](https://marianoguerra.github.io/presentations/2018-codebeam-sf-zoo/))
+-   [Video: Building distributed applications: riak_core vs partisan | London Riak Meetup](https://www.youtube.com/watch?v=BKqR3EJAV78) ([Slides](https://marianoguerra.github.io/presentations/2018-london-erlang-meetup/))
 -   [Sistemas Distribuidos: ¿Para Qué? - EFLBA2017](https://www.youtube.com/watch?v=j3pk3qQRaxA)
--   [The BEAM community and efene](http://marianoguerra.github.io/presentations/2017-euc-efene-and-the-beam-community/)
--   [Gossip protocols, Epidemic Broadcast and Eventual Consistency in practice - Erlang Factory Lite 2016](http://marianoguerra.github.io/presentations/berlin-efl-2016/)
+-   [The BEAM community and efene](https://marianoguerra.github.io/presentations/2017-euc-efene-and-the-beam-community/)
+-   [Gossip protocols, Epidemic Broadcast and Eventual Consistency in practice - Erlang Factory Lite 2016](https://marianoguerra.github.io/presentations/berlin-efl-2016/)
 -   How BEAM Languages are Made
     -   [Basel Erlang Meetup 2016](http://marianoguerra.org/talks/erlang-basel-meetup/#/efene-how-beams-are-made)
     -   [Karlsruhe Elixir Meetup 2016](http://marianoguerra.org/talks/elixir-karlsruhe-meetup/#/how-beams-are-made)
@@ -62,13 +75,6 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 -   [Efene with Mariano Guerra - Episode 47 - Python Podcast 2016](https://www.pythonpodcast.com/episode-47-efene-with-mariano-guerra/)
 -   [Mariano Guerra on the Efene and Erlang VM as Language Platform - InfoQ 2010](https://www.infoq.com/interviews/guerra-efene-erlang/)
 
-## Me Around the Web
-
--   [gh/marianoguerra](https://github.com/marianoguerra)
--   [@marianoguerra@vis.social](https://vis.social/@marianoguerra)
--   [@warianoguerra](https://twitter.com/warianoguerra)
--   [marianoguerra.org](http://marianoguerra.org)
-
 ## Language Projects
 
 -   [Firestore Query Parser](https://github.com/instadeq/firestore-query-parser-js)
@@ -85,6 +91,12 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 -   [Band Blocks: make music with blocks and band.js](https://github.com/marianoguerra/band-blocks)
 -   [plang: scheme like language implemented with PyPy](https://github.com/marianoguerra/plang)
 -   [squim: a scheme/kernel language implemented in JS](https://github.com/marianoguerra/squim)
+
+## Academic-ish Stuff
+
+-   [SPLASH's LIVE 2021 Accepted Submission: Instadeq A Live Programming Environment for End User Data Analysis and Visualization](https://2021.splashcon.org/details/live-2021-papers/10/Instadeq-A-Live-Programming-Environment-for-End-User-Data-Analysis-and-Visualization)
+-   [ACM SIGPLAN International Workshop on Erlang 2021: Program Committee Member](https://erlang2021.hotcrp.com/users/pc)
+-   [Google Summer of Code 2020: Mentor for Reference implementation for riak-core-lite based distributed application](https://summerofcode.withgoogle.com/archive/2020/projects/5834795419959296)
 
 ## Parser Projects
 
