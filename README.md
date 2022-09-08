@@ -1,12 +1,10 @@
 # Mariano Guerra's Index Page
 
-Hi! I'm Mariano Guerra, a Software Engineer from Cordoba, Argentina
+Hi! I'm Mariano Guerra, an Information's System Engineer from Córdoba, Argentina
 
-I'm the Co-founder of [Instadeq](https://instadeq.com) a product to do data analysis, visualization and collaboration for individuals and teams
+I'm the Co-founder of [Instadeq](https://instadeq.com) a product to do data analysis, visualization and collaboration for individuals and teams and [GlooData](https://gloodata.com) a product to connect internal systems to Slack, Microsoft Teams, Google Chat, Discord & Email
 
 Previously Co-founder of [Event Fabric](https://event-fabric.com/)
-
-[Language Interoperability Working Group](https://erlef.org/wg/language-interop) Chair and [Documentation Working Group](https://erlef.org/wg/documentation) Member on the [Erlang Ecosystem Foundation](https://erlef.org/)
 
 I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/marianoguerra/)
 
@@ -14,22 +12,22 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 
 (most recent first)
 
--   [Youtube Notes](https://instadeq.com/youtube-notes/)
--   [Review Jam](https://marianoguerra.github.io/review-jam/) / [Advent of Future of Code](https://marianoguerra.github.io/advent-of-future-of-code/)
--   [Creemos en la Red](https://creemosenlared.com/)
--   [BEAMoji](https://github.com/spawnfest/beamoji/blob/%E2%93%82%EF%B8%8F/JUDGES.md)
--   [Elixir Flavoured Lisp Flavoured Erlang](https://github.com/marianoguerra/efe#eflfe-elixir-flavoured-lisp-flavoured-erlang)
--   [Elixir Flavoured Erlang](https://github.com/marianoguerra/efe)
--   [Efene Programming Language](https://github.com/efene/efene)
--   [Creemos en la Web](https://creemosenlaweb.github.io/)
--   [Riak Core Lite (Contributor)](https://riak-core-lite.github.io/)
--   [Riak Core on Partisan on Elixir Tutorial](http://marianoguerra.org/posts/riak-core-on-partisan-on-elixir-tutorial-introduction.html)
--   [Riak Core Tutorial](https://marianoguerra.github.io/riak-core-tutorial/)
--   [Little Riak Core Book](https://marianoguerra.github.io/little-riak-core-book/)
--   [Founders in Germany](http://marianoguerra.github.io/founders-in-germany/)
--   [Interfix Programming Language](https://github.com/marianoguerra/interfix)
--   [json.human.js](https://github.com/marianoguerra/json.human.js)
--   [rst2html5](https://github.com/marianoguerra/rst2html5)
+-   [Youtube Notes](https://instadeq.com/youtube-notes/): Take notes from Youtube Videos without leaving your keyboard
+-   [Review Jam](https://marianoguerra.github.io/review-jam/) / [Advent of Future of Code](https://marianoguerra.github.io/advent-of-future-of-code/): One task per day to be solved with a Future of Coding Project
+-   [Creemos en la Red](https://creemosenlared.com/): Teach web development to underrepresented groups in Argentina
+-   [BEAMoji](https://github.com/spawnfest/beamoji/blob/%E2%93%82%EF%B8%8F/JUDGES.md): a transpiler from Erlang to an Erlang dialect that uses emojis for identifiers
+-   [Elixir Flavoured Lisp Flavoured Erlang](https://github.com/marianoguerra/efe#eflfe-elixir-flavoured-lisp-flavoured-erlang): a transpiler from [Lisp Flavoured Erlang](https://lfe.io/) to [Elixir](https://elixir-lang.org/)
+-   [Elixir Flavoured Erlang](https://github.com/marianoguerra/efe): a transpiler from [Erlang](https://www.erlang.org/) to [Elixir](https://elixir-lang.org/)
+-   [Efene Programming Language](https://github.com/efene/efene): A Python/JS inspired dialect of [Erlang](https://www.erlang.org/)
+-   [Creemos en la Web](https://creemosenlaweb.github.io/): Teach web development to underrepresented groups in Córdoba, Argentina
+-   [Riak Core Lite (Contributor)](https://riak-core-lite.github.io/): A framework to build [dynamo-style](https://www.amazon.science/publications/dynamo-amazons-highly-available-key-value-store) distributed systems
+-   [Riak Core on Partisan on Elixir Tutorial](http://marianoguerra.org/posts/riak-core-on-partisan-on-elixir-tutorial-introduction.html): Tutorial on how to build a distributed key-value store in Elixir using Riak Core on top or [Partisan](https://web.archive.org/web/20200626173022/http://partisan.cloud/)
+-   [Riak Core Tutorial](https://marianoguerra.github.io/riak-core-tutorial/): Tutorial on how to build a distributed key-value store in Erlang using Riak Core
+-   [Little Riak Core Book](https://marianoguerra.github.io/little-riak-core-book/): Small book describing Riak Core and how to build a distributed key-value store in Erlang using Riak Core
+-   [Founders in Germany](http://marianoguerra.github.io/founders-in-germany/): List of English resources for international founders in Germany
+-   [Interfix Programming Language](https://github.com/marianoguerra/interfix): a language for the Erlang VM with an experimental syntax
+-   [json.human.js](https://github.com/marianoguerra/json.human.js): render JSON in a human readable way
+-   [rst2html5](https://github.com/marianoguerra/rst2html5): generate HTML5 from [ReStructuredText](https://en.wikipedia.org/wiki/ReStructuredText)
 -   [All Projects](https://github.com/marianoguerra?tab=repositories)
 
 ## Me Around the Web
