@@ -43,9 +43,9 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 
 -   [Seeing Like a Linguist - Code BEAM Coruña 2022](https://www.codebeamcorunha.es/en#schedule) ([Slides](http://marianoguerra.github.io/presentations/2022-codebeam-galicia/))
 -   [Instadeq: A Live Programming Environment for End User Data Analysis and Visualization - Live 2021](https://www.youtube.com/watch?v=mTEkYqnGICE) ([Slides](https://marianoguerra.github.io/presentations/2021-live/))
--   The Platform of the System - Code BEAM Brasil 2021 ([Slides](https://marianoguerra.github.io/presentations/2021-codebeam-brasil/The Platform of The System - Code BEAM Brasil 2021.pdf))
+-   The Platform of the System - Code BEAM Brasil 2021 ([Slides](https://marianoguerra.github.io/presentations/2021-codebeam-brasil/The%20Platform%20of%20The%20System%20-%20Code%20BEAM%20Brasil%202021.pdf))
 -   Elixir Flavoured Erlang - Erlang User Group Meetup ([Slides](https://marianoguerra.github.io/presentations/2020-erlug-elixir-flavoured-erlang/))
--   [BEAM Language Ecosystem: Past, Present and Future - Code BEAM Brasil 2020](https://www.codebeambr.com/video/10) ([Slides](https://marianoguerra.github.io/presentations/2020-codebeam-brazil/BEAM Language Ecosystem Past, Present and Future.pdf))
+-   [BEAM Language Ecosystem: Past, Present and Future - Code BEAM Brasil 2020](https://www.codebeambr.com/video/10) ([Slides](https://marianoguerra.github.io/presentations/2020-codebeam-brazil/BEAM%20Language%20Ecosystem%20Past%2C%20Present%20and%20Future.pdf))
 -   [Programming by any other name - Bob 2020 - Berlin](https://www.youtube.com/watch?v=dZC__eDU60M&list=PLHvf3gk-RdgWClskb81nBwwCCv7sRZqDm&index=16&t=0s) ([Slides](https://marianoguerra.github.io/presentations/2020-berlin-bobkonf-programming-by-any-other-name/#1))
 -   [Un Paseo por el Laberinto de las Representaciones - ElixirConfLA Medellin 2019](https://www.youtube.com/watch?v=PrSdwC8H84E) ([Slides](https://marianoguerra.github.io/presentations/2019-medellin-elixir-conf-la-laberinto-representaciones/#1))
 -   [Slides: A Tour Through the Distributed System Zoo - Code BEAM Milan 2018](https://marianoguerra.github.io/presentations/2018-codebeam-milan-zoo/#1)
