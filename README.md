@@ -41,6 +41,7 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 
 (most recent first)
 
+-   [Fireside chat on BEAM Languages with Erlang co inventor Robert Virding & Mariano Guerra - Code BEAM America 2021](https://www.youtube.com/watch?v=-o_UFjCyum4)
 -   [Seeing Like a Linguist - Code BEAM Coruña 2022](https://www.codebeamcorunha.es/en#schedule) ([Slides](http://marianoguerra.github.io/presentations/2022-codebeam-galicia/))
 -   [Instadeq: A Live Programming Environment for End User Data Analysis and Visualization - Live 2021](https://www.youtube.com/watch?v=mTEkYqnGICE) ([Slides](https://marianoguerra.github.io/presentations/2021-live/))
 -   The Platform of the System - Code BEAM Brasil 2021 ([Slides](https://marianoguerra.github.io/presentations/2021-codebeam-brasil/The%20Platform%20of%20The%20System%20-%20Code%20BEAM%20Brasil%202021.pdf))
