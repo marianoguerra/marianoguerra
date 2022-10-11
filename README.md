@@ -12,6 +12,7 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 
 (most recent first)
 
+-   [WebAssembly From The Ground Up](https://wasmfromthegroundup.github.io/): Book about compiling to WebAssembly with vanilla Javascript and [ohm.js](https://ohmjs.org/)
 -   [Youtube Notes](https://instadeq.com/youtube-notes/): Take notes from Youtube Videos without leaving your keyboard
 -   [Review Jam](https://marianoguerra.github.io/review-jam/) / [Advent of Future of Code](https://marianoguerra.github.io/advent-of-future-of-code/): One task per day to be solved with a Future of Coding Project
 -   [Creemos en la Red](https://creemosenlared.com/): Teach web development to underrepresented groups in Argentina
@@ -41,6 +42,8 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 
 (most recent first)
 
+-   [Outlining a UI for Tremor - Tremor Con 2022](http://marianoguerra.github.io/presentations/2022-tremor-conf-outlining-a-ui-for-tremor/)
+-   [WebAssembly Demysteified - Heilbronn Nerd BBQ October 2022](http://marianoguerra.github.io/presentations/2022-wasm-demystified-heilbronn-nerd-bbq/)
 -   [Fireside chat on BEAM Languages with Erlang co inventor Robert Virding & Mariano Guerra - Code BEAM America 2021](https://www.youtube.com/watch?v=-o_UFjCyum4)
 -   [Seeing Like a Linguist - Code BEAM Coruña 2022](https://www.codebeamcorunha.es/en#schedule) ([Slides](http://marianoguerra.github.io/presentations/2022-codebeam-galicia/))
 -   [Instadeq: A Live Programming Environment for End User Data Analysis and Visualization - Live 2021](https://www.youtube.com/watch?v=mTEkYqnGICE) ([Slides](https://marianoguerra.github.io/presentations/2021-live/))
