@@ -13,6 +13,7 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 (most recent first)
 
 -   [WebAssembly From The Ground Up](https://wasmfromthegroundup.github.io/): Book about compiling to WebAssembly with vanilla Javascript and [ohm.js](https://ohmjs.org/)
+-   [Data The Ultimate](https://github.com/spawnfest/dtu): [spawnfest](https://spawnfest.org/) project. DTU is a data format that, unlike YAML, allows to define pretty decent programming language
 -   [Youtube Notes](https://instadeq.com/youtube-notes/): Take notes from Youtube Videos without leaving your keyboard
 -   [Review Jam](https://marianoguerra.github.io/review-jam/) / [Advent of Future of Code](https://marianoguerra.github.io/advent-of-future-of-code/): One task per day to be solved with a Future of Coding Project
 -   [Creemos en la Red](https://creemosenlared.com/): Teach web development to underrepresented groups in Argentina
