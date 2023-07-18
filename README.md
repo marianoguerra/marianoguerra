@@ -4,7 +4,7 @@ Hi! I'm Mariano Guerra, an Information's System Engineer from Córdoba, Argentin
 
 I'm the Co-founder of [Instadeq](https://instadeq.com) a product to do data analysis, visualization and collaboration for individuals and teams and [GlooData](https://gloodata.com) a product to connect internal systems to Slack, Microsoft Teams, Google Chat, Discord & Email
 
-I'm writing the book [WebAssembly from the Ground Up](https://wasmfromthegroundup.com/) with [Patrick Dubroy](https://twitter.com/dubroy)
+I'm writing the book [WebAssembly from the Ground Up](https://wasmgroundup.com/) with [Patrick Dubroy](https://twitter.com/dubroy)
 
 Previously Co-founder of [Event Fabric](https://event-fabric.com/)
 
@@ -14,7 +14,7 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 
 (most recent first)
 
--   [WebAssembly From The Ground Up](https://wasmfromthegroundup.github.io/): Book about compiling to WebAssembly with vanilla Javascript and [ohm.js](https://ohmjs.org/)
+-   [WebAssembly From The Ground Up](https://wasmgroundup.com/): Book about compiling to WebAssembly with vanilla Javascript and [ohm.js](https://ohmjs.org/)
 -   [Data The Ultimate](https://github.com/spawnfest/dtu): [spawnfest](https://spawnfest.org/) project. DTU is a data format that, unlike YAML, allows to define pretty decent programming language
 -   [Youtube Notes](https://instadeq.com/youtube-notes/): Take notes from Youtube Videos without leaving your keyboard
 -   [Review Jam](https://marianoguerra.github.io/review-jam/) / [Advent of Future of Code](https://marianoguerra.github.io/advent-of-future-of-code/): One task per day to be solved with a Future of Coding Project
