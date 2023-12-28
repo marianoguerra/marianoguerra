@@ -37,7 +37,7 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 ## Me Around the Web
 
 -   [gh/marianoguerra](https://github.com/marianoguerra)
--   <a rel="me" href="https://hachyderm.io/@marianoguerra">@marianoguerra@hachyderm.io</a>
+-   <a rel="me" href="https://hachyderm.io/@marianoguerra">@marianoguerra at hachyderm.io</a>
 -   [@warianoguerra](https://twitter.com/warianoguerra)
 -   [marianoguerra.org](http://marianoguerra.org)
 
