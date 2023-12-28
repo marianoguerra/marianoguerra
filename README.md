@@ -2,7 +2,7 @@
 
 Hi! I'm Mariano Guerra, an Information's System Engineer from Córdoba, Argentina
 
-I'm the Co-founder of [Instadeq](https://instadeq.com) a product to do data analysis, visualization and collaboration for individuals and teams and [GlooData](https://gloodata.com) a product to connect internal systems to Slack, Microsoft Teams, Google Chat, Discord & Email
+I'm the Co-founder of [Instadeq](https://instadeq.com) a product to do data analysis, visualization and collaboration for individuals and teams and [GlooData](https://gloodata.com) an Extensible Conversational UI for Interactive Components
 
 I'm writing the book [WebAssembly from the Ground Up](https://wasmgroundup.com/) with [Patrick Dubroy](https://twitter.com/dubroy)
 
@@ -37,7 +37,7 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 ## Me Around the Web
 
 -   [gh/marianoguerra](https://github.com/marianoguerra)
--   [@marianoguerra@vis.social](https://vis.social/@marianoguerra)
+-   <a rel="me" href="https://hachyderm.io/@marianoguerra">@marianoguerra@hachyderm.io</a>
 -   [@warianoguerra](https://twitter.com/warianoguerra)
 -   [marianoguerra.org](http://marianoguerra.org)
 
