@@ -14,6 +14,7 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 
 (most recent first)
 
+-   [Don't strip the meaning away from your runtime](https://marianoguerra.org/msite/human-server-protocol/): Exploring extending programming languages to include descriptions in the domain of the problem and solution
 -   [WebAssembly From The Ground Up](https://wasmgroundup.com/): Book about compiling to WebAssembly with vanilla Javascript and [ohm.js](https://ohmjs.org/)
 -   [Data The Ultimate](https://github.com/spawnfest/dtu): [spawnfest](https://spawnfest.org/) project. DTU is a data format that, unlike YAML, allows to define pretty decent programming language
 -   [Youtube Notes](https://instadeq.com/youtube-notes/): Take notes from Youtube Videos without leaving your keyboard
@@ -37,7 +38,7 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 ## Me Around the Web
 
 -   [gh/marianoguerra](https://github.com/marianoguerra)
--   <a rel="me" href="https://hachyderm.io/@marianoguerra">@marianoguerra at hachyderm.io</a>
+-   [@marianoguerra at hachyderm.io](https://hachyderm.io/@marianoguerra)
 -   [@warianoguerra](https://twitter.com/warianoguerra)
 -   [marianoguerra.org](http://marianoguerra.org)
 
@@ -82,6 +83,7 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 
 ## Language Projects
 
+-   [Don't strip the meaning away from your runtime](https://marianoguerra.org/msite/human-server-protocol/): Exploring extending programming languages to include descriptions in the domain of the problem and solution
 -   [Firestore Query Parser](https://github.com/instadeq/firestore-query-parser-js)
 -   [HTML Is A Programming Language](https://github.com/marianoguerra/hiapl)
 -   [Efene Programming Language](https://github.com/efene/efene)
