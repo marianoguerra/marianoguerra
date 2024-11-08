@@ -1,19 +1,21 @@
+
 # Mariano Guerra's Index Page
 
-Hi! I'm Mariano Guerra, an Information's System Engineer from Córdoba, Argentina
+I'm an Information's System Engineer from Córdoba, Argentina
 
-I'm the Co-founder of [Instadeq](https://instadeq.com) a product to do data analysis, visualization and collaboration for individuals and teams and [GlooData](https://gloodata.com) an Extensible Conversational UI for Interactive Components
+I'm the Co-founder of [Gloodata](https://gloodata.com) a Low-Code Platform for AI-Native Interactive Data Applications
 
 I'm writing the book [WebAssembly from the Ground Up](https://wasmgroundup.com/) with [Patrick Dubroy](https://twitter.com/dubroy)
 
-Previously Co-founder of [Event Fabric](https://event-fabric.com/)
+I do a Weekly Newsletter about the [Future of Coding](https://newsletter.futureofcoding.org/join/)
 
-I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/marianoguerra/)
+Previously Co-founded [Instadeq](https://instadeq.com) and [Event Fabric](https://event-fabric.com/)
 
 ## Main Projects
 
 (most recent first)
 
+-   [Bootstrapping OOP](https://marianoguerra.org/posts/bootstrapping-oop-part-3-who-parses-the-parser/): Exploring and implementing a minimal, bootstrappable [true Object Oriented](https://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en) language in Wasm-GC, PyPy and Javascript
 -   [Don't strip the meaning away from your runtime](https://marianoguerra.org/msite/human-server-protocol/): Exploring extending programming languages to include descriptions in the domain of the problem and solution
 -   [WebAssembly From The Ground Up](https://wasmgroundup.com/): Book about compiling to WebAssembly with vanilla Javascript and [ohm.js](https://ohmjs.org/)
 -   [Data The Ultimate](https://github.com/spawnfest/dtu): [spawnfest](https://spawnfest.org/) project. DTU is a data format that, unlike YAML, allows to define pretty decent programming language
@@ -37,17 +39,20 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 
 ## Me Around the Web
 
--   [gh/marianoguerra](https://github.com/marianoguerra)
--   [@marianoguerra at hachyderm.io](https://hachyderm.io/@marianoguerra)
--   [@warianoguerra](https://twitter.com/warianoguerra)
--   [marianoguerra.org](http://marianoguerra.org)
+-   [@marianoguerra.bsky.social](https://bsky.app/profile/marianoguerra.bsky.social)
+-   [@marianoguerra@hachyderm.io](https://hachyderm.io/@marianoguerra)
+-   [x.com/@warianoguerra](https://twitter.com/warianoguerra)
+-   [http://marianoguerra.org](http://marianoguerra.org)
+-   [github.com/marianoguerra](https://github.com/marianoguerra)
 
 ## Talks
 
 (most recent first)
 
+-   [A Tour Through Latent Space: LLMs, Hypermedia, and Interactive Data Applications - UK SmallTalk Meetup 2024](https://marianoguerra.github.io/presentations/2024-uk-smalltalk-meetup/#1)
+-   [LLMs beyond text: natural language meets interactive hypermedia - GenAI Builders Berlin 2024](https://www.youtube.com/watch?v=qWlTxQAcFQQ)
 -   [Outlining a UI for Tremor - Tremor Con 2022](http://marianoguerra.github.io/presentations/2022-tremor-conf-outlining-a-ui-for-tremor/)
--   [WebAssembly Demysteified - Heilbronn Nerd BBQ October 2022](http://marianoguerra.github.io/presentations/2022-wasm-demystified-heilbronn-nerd-bbq/)
+-   [WebAssembly Demystified - Heilbronn Nerd BBQ October 2022](http://marianoguerra.github.io/presentations/2022-wasm-demystified-heilbronn-nerd-bbq/)
 -   [Fireside chat on BEAM Languages with Erlang co inventor Robert Virding & Mariano Guerra - Code BEAM America 2021](https://www.youtube.com/watch?v=-o_UFjCyum4)
 -   [Seeing Like a Linguist - Code BEAM Coruña 2022](https://www.codebeamcorunha.es/en#schedule) ([Slides](http://marianoguerra.github.io/presentations/2022-codebeam-galicia/), [Video](https://www.youtube.com/watch?v=-huejXtJJT4))
 -   [Instadeq: A Live Programming Environment for End User Data Analysis and Visualization - Live 2021](https://www.youtube.com/watch?v=mTEkYqnGICE) ([Slides](https://marianoguerra.github.io/presentations/2021-live/))
@@ -83,6 +88,7 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 
 ## Language Projects
 
+-   [Bootstrapping OOP](https://marianoguerra.org/posts/bootstrapping-oop-part-3-who-parses-the-parser/): Exploring and implementing a minimal, bootstrappable [true Object Oriented](https://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en) language in Wasm-GC, PyPy and Javascript
 -   [Don't strip the meaning away from your runtime](https://marianoguerra.org/msite/human-server-protocol/): Exploring extending programming languages to include descriptions in the domain of the problem and solution
 -   [Firestore Query Parser](https://github.com/instadeq/firestore-query-parser-js)
 -   [HTML Is A Programming Language](https://github.com/marianoguerra/hiapl)
@@ -104,6 +110,13 @@ I do a Weekly Newsletter about the [Future of Coding](https://tinyletter.com/mar
 -   [SPLASH's LIVE 2021 Accepted Submission: Instadeq A Live Programming Environment for End User Data Analysis and Visualization](https://2021.splashcon.org/details/live-2021-papers/10/Instadeq-A-Live-Programming-Environment-for-End-User-Data-Analysis-and-Visualization)
 -   [ACM SIGPLAN International Workshop on Erlang 2021: Program Committee Member](https://erlang2021.hotcrp.com/users/pc)
 -   [Google Summer of Code 2020: Mentor for Reference implementation for riak-core-lite based distributed application](https://summerofcode.withgoogle.com/archive/2020/projects/5834795419959296)
+
+## Community Stuff
+
+-   Co-organizer: [Homebrew Systems Club - Munich 2024](https://lu.ma/je6q8qzq)
+-   Co-organizer: [GenAI Builders - Berlin 2024](https://lu.ma/rvsr4xiy)
+-   Co-organizer: [Future of Coding Meetup - Berlin 2024](https://hachyderm.io/@marianoguerra/112540551931190487)
+-   Organizer: [Foreign Startups & Entrepreneurs Meetup - Stuttgart 2014-2016](https://www.meetup.com/Foreign-Startup-Enterprenuers-near-Stuttgart-Meetup/)
 
 ## Parser Projects
 
