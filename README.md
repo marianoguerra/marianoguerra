@@ -39,16 +39,17 @@ Previously Co-founded [Instadeq](https://instadeq.com) and [Event Fabric](https:
 
 ## Me Around the Web
 
--   [@marianoguerra.bsky.social](https://bsky.app/profile/marianoguerra.bsky.social)
--   [@marianoguerra@hachyderm.io](https://hachyderm.io/@marianoguerra)
--   [x.com/@warianoguerra](https://twitter.com/warianoguerra)
--   [http://marianoguerra.org](http://marianoguerra.org)
--   [github.com/marianoguerra](https://github.com/marianoguerra)
+-   [🦋 @marianoguerra.org](https://bsky.app/profile/marianoguerra.org)
+-   [🐘 @marianoguerra@hachyderm.io](https://hachyderm.io/@marianoguerra)
+-   [🐦 @warianoguerra](https://twitter.com/warianoguerra)
+-   [🌐 http://marianoguerra.org](http://marianoguerra.org)
+-   [🧑🏽‍💻 github.com/marianoguerra](https://github.com/marianoguerra)
 
 ## Talks
 
 (most recent first)
 
+-   [Names in Space and Time - Munich Homebrew Systems Club 2024](https://marianoguerra.github.io/presentations/2024-munich-names-in-space-and-time/)
 -   [A Tour Through Latent Space: LLMs, Hypermedia, and Interactive Data Applications - UK SmallTalk Meetup 2024](https://marianoguerra.github.io/presentations/2024-uk-smalltalk-meetup/#1)
 -   [LLMs beyond text: natural language meets interactive hypermedia - GenAI Builders Berlin 2024](https://www.youtube.com/watch?v=qWlTxQAcFQQ)
 -   [Outlining a UI for Tremor - Tremor Con 2022](http://marianoguerra.github.io/presentations/2022-tremor-conf-outlining-a-ui-for-tremor/)
