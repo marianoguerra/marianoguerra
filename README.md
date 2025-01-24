@@ -49,7 +49,7 @@ Previously Co-founded [Instadeq](https://instadeq.com) and [Event Fabric](https:
 (most recent first)
 
 -   [Names in Space and Time - Munich Homebrew Systems Club 2024](https://marianoguerra.github.io/presentations/2024-munich-names-in-space-and-time/)
--   [A Tour Through Latent Space: LLMs, Hypermedia, and Interactive Data Applications - UK SmallTalk Meetup 2024](https://vimeo.com/1028934873) ([Slides](https://marianoguerra.github.io/presentations/2024-uk-smalltalk-meetup/#1))
+-   [A Tour Through Latent Space: LLMs, Hypermedia, and Interactive Data Applications - UK SmallTalk Meetup 2024](https://www.youtube.com/watch?v=k6J016ol1P0) ([Slides](https://marianoguerra.github.io/presentations/2024-uk-smalltalk-meetup/#1))
 -   [LLMs beyond text: natural language meets interactive hypermedia - GenAI Builders Berlin 2024](https://www.youtube.com/watch?v=qWlTxQAcFQQ)
 -   [Outlining a UI for Tremor - Tremor Con 2022](http://marianoguerra.github.io/presentations/2022-tremor-conf-outlining-a-ui-for-tremor/)
 -   [WebAssembly Demystified - Heilbronn Nerd BBQ October 2022](http://marianoguerra.github.io/presentations/2022-wasm-demystified-heilbronn-nerd-bbq/)
