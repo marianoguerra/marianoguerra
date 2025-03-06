@@ -1,10 +1,10 @@
 # Mariano Guerra's Index Page
 
-I'm an Information's System Engineer from Córdoba, Argentina
+Information's System Engineer from Córdoba, Argentina
 
-I'm the Co-founder of [Gloodata](https://gloodata.com) a Low-Code Platform for AI-Native Interactive Data Applications
+Co-founder of [Gloodata](https://gloodata.com) a Low-Code Platform for AI-Native Interactive Data Applications
 
-I'm writing the book [WebAssembly from the Ground Up](https://wasmgroundup.com/) with [Patrick Dubroy](https://twitter.com/dubroy)
+Co-author of the book [WebAssembly from the Ground Up](https://wasmgroundup.com/) with [Patrick Dubroy](https://twitter.com/dubroy)
 
 I do a Weekly Newsletter about the [Future of Coding](https://newsletter.futureofcoding.org/join/)
 
