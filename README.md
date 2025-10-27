@@ -14,6 +14,9 @@ Previously Co-founded [Instadeq](https://instadeq.com) and [Event Fabric](https:
 
 (most recent first)
 
+-   [VibeCard](https://marianoguerra.github.io/vibecard/): Low-Code Frontend IDE applying ideas from [PLT](https://en.wikipedia.org/wiki/Programming_language_theory)
+    -   🎥 [a todo list app in 5 minutes and 1 line of js](https://www.youtube.com/watch?v=UY_n0y-Aoqo)
+    -   🎥 [todo app speedrun using macros](https://www.youtube.com/watch?v=D149hZVhRPg)
 -   [Bootstrapping OOP](https://marianoguerra.org/posts/bootstrapping-oop-part-3-who-parses-the-parser/): Exploring and implementing a minimal, bootstrappable [true Object Oriented](https://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en) language in Wasm-GC, PyPy and Javascript
 -   [Don't strip the meaning away from your runtime](https://marianoguerra.org/msite/human-server-protocol/): Exploring extending programming languages to include descriptions in the domain of the problem and solution
 -   [WebAssembly From The Ground Up](https://wasmgroundup.com/): Book about compiling to WebAssembly with vanilla Javascript and [ohm.js](https://ohmjs.org/)
@@ -80,6 +83,7 @@ Previously Co-founded [Instadeq](https://instadeq.com) and [Event Fabric](https:
 
 ## Interviews & Podcasts
 
+-   [WebAssembly from the Ground Up with Patrick Dubroy and Mariano Guerra - Chrome for Developers 2025](https://marianoguerra.github.io/www.youtube.com/watch?v=dRdDhybw6NI&list=PLNYkxOF6rcIA46I-YCX3ASF4SRb548z8s&index=2)
 -   [[ES] NoCode, LowCode y LowLevelCode - Codeadores 2024](https://anchor.fm/mynocodestory/episodes/053-NoCode-Dashboards-wMariano-Guerra-e1h829l)
 -   [My NoCode Story: #053: NoCode Dashboards w/Mariano Guerra 2022](https://anchor.fm/mynocodestory/episodes/053-NoCode-Dashboards-wMariano-Guerra-e1h829l)
 -   ["Aha! Moment" Demo Video with Instadeq - No Code Ops 2021](https://www.youtube.com/watch?v=r1MhSIKIwBs)
@@ -111,6 +115,7 @@ Previously Co-founded [Instadeq](https://instadeq.com) and [Event Fabric](https:
 -   [SPLASH's LIVE 2021 Accepted Submission: Instadeq A Live Programming Environment for End User Data Analysis and Visualization](https://2021.splashcon.org/details/live-2021-papers/10/Instadeq-A-Live-Programming-Environment-for-End-User-Data-Analysis-and-Visualization)
 -   [ACM SIGPLAN International Workshop on Erlang 2021: Program Committee Member](https://erlang2021.hotcrp.com/users/pc)
 -   [Google Summer of Code 2020: Mentor for Reference implementation for riak-core-lite based distributed application](https://summerofcode.withgoogle.com/archive/2020/projects/5834795419959296)
+-   Software simulation for [An Organic Computing Approach to Sustained Real-time Monitoring](https://dl.ifip.org/db/conf/ifip10/bicc2008/BuchtyKK08.pdf) - Karlsruhe Institute of Technology 2007
 
 ## Community Stuff
 
